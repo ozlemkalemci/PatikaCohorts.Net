@@ -9,7 +9,11 @@ namespace PatikaPaparaBootcamp.Controllers
 	[Route("api/[controller]")]
 	public class ClientController : ControllerBase
 	{
-		private static List<Client> _clients = new();
+		private static List<Client> _clients = new List<Client>
+	{
+		new Client { Id = 1, Name = "Özlem", SurName = "Kalemci", Age = 25, Email = "ozlem@example.com", Phone = "5551234567", Address = "Eskişehir" },
+		new Client { Id = 2, Name = "Berkay", SurName = "Sönmez", Age = 30, Email = "berkay@example.com", Phone = "5557654321", Address = "Eskişehir" },
+	};
 
 		[HttpGet("{id}")]
 		public IActionResult GetById(int id)
@@ -37,6 +41,12 @@ namespace PatikaPaparaBootcamp.Controllers
 			};
 
 			return Ok(new { Status = 200, Data = query.ToList() });
+		}
+
+		[HttpGet("all")]
+		public IActionResult GetAll()
+		{
+			return Ok(new { Status = 200, Data = _clients });
 		}
 
 		[HttpPost]

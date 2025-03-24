@@ -54,8 +54,7 @@
               "RelativeToolTip": "PatikaPaparaBootcamp\\Middlewares\\ValidationMiddleware.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAgwCYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T19:26:38.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T19:26:38.154Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "PatikaPaparaBootcamp\\Middlewares\\ErrorHandlerMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T19:16:13.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T19:16:13.767Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "PatikaPaparaBootcamp\\Startup.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAgwEwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T20:05:25.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T20:05:25.324Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "PatikaPaparaBootcamp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T20:05:21.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T20:05:21.808Z"
             },
             {
               "$type": "Document",
@@ -104,7 +100,7 @@
               "RelativeDocumentMoniker": "PatikaPaparaBootcamp\\Controllers\\ClientController.cs",
               "ToolTip": "C:\\Users\\lonovo\\Desktop\\papara\\Cohorts\\Week-1\\PatikaPaparaBootcamp\\PatikaPaparaBootcamp\\Controllers\\ClientController.cs",
               "RelativeToolTip": "PatikaPaparaBootcamp\\Controllers\\ClientController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA4AAACOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T20:02:51.278Z",
               "EditorCaption": ""
@@ -119,8 +115,7 @@
               "RelativeToolTip": "PatikaPaparaBootcamp\\Application\\Validations\\ClientValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T20:01:33.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T20:01:33.955Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "PatikaPaparaBootcamp\\Domain\\Entities\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T19:56:08.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T19:56:08.744Z"
             }
           ]
         }

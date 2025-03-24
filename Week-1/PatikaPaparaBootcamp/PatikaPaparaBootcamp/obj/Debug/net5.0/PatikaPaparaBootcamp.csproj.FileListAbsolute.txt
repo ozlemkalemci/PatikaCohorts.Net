@@ -32,3 +32,5 @@ C:\Users\lonovo\Desktop\papara\Cohorts\Week-1\PatikaPaparaBootcamp\PatikaPaparaB
 C:\Users\lonovo\Desktop\papara\Cohorts\Week-1\PatikaPaparaBootcamp\PatikaPaparaBootcamp\obj\Debug\net5.0\PatikaPaparaBootcamp.pdb
 C:\Users\lonovo\Desktop\papara\Cohorts\Week-1\PatikaPaparaBootcamp\PatikaPaparaBootcamp\obj\Debug\net5.0\PatikaPaparaBootcamp.genruntimeconfig.cache
 C:\Users\lonovo\Desktop\papara\Cohorts\Week-1\PatikaPaparaBootcamp\PatikaPaparaBootcamp\obj\Debug\net5.0\ref\PatikaPaparaBootcamp.dll
+C:\Users\lonovo\Desktop\papara\Cohorts\Week-1\PatikaPaparaBootcamp\PatikaPaparaBootcamp\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\lonovo\Desktop\papara\Cohorts\Week-1\PatikaPaparaBootcamp\PatikaPaparaBootcamp\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
