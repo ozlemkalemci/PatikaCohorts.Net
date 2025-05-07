@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\common\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\common\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\application\\authoroperations\\queries\\getauthordetail\\getauthordetailqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\application\\authoroperations\\queries\\getauthordetail\\getauthordetailqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\application\\authoroperations\\queries\\getauthordetail\\getauthordetailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\application\\authoroperations\\queries\\getauthordetail\\getauthordetailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\application\\authoroperations\\queries\\getauthors\\getauthorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\application\\authoroperations\\queries\\getauthors\\getauthorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\application\\authoroperations\\commands\\deleteauthor\\deleteauthorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\application\\authoroperations\\commands\\deleteauthor\\deleteauthorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\application\\authoroperations\\commands\\deleteauthor\\deleteauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\application\\authoroperations\\commands\\deleteauthor\\deleteauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\application\\authoroperations\\commands\\updateauthor\\updateauthorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\application\\authoroperations\\commands\\updateauthor\\updateauthorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\application\\authoroperations\\commands\\updateauthor\\updateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\application\\authoroperations\\commands\\updateauthor\\updateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\application\\authoroperations\\commands\\createauthor\\createauthorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\application\\authoroperations\\commands\\createauthor\\createauthorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\application\\authoroperations\\commands\\createauthor\\createauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\application\\authoroperations\\commands\\createauthor\\createauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\dboperations\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dboperations\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4\\bookstore\\webapi\\webapi\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 277,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:28:55.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Common\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebApi\\Common\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Common\\MappingProfile.cs",
+              "RelativeToolTip": "WebApi\\Common\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:27:23.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAuthorDetailQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Queries\\GetAuthorDetail\\GetAuthorDetailQueryValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\Application\\AuthorOperations\\Queries\\GetAuthorDetail\\GetAuthorDetailQueryValidator.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Queries\\GetAuthorDetail\\GetAuthorDetailQueryValidator.cs",
+              "RelativeToolTip": "WebApi\\Application\\AuthorOperations\\Queries\\GetAuthorDetail\\GetAuthorDetailQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:27:08.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAuthorDetailQuery.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Queries\\GetAuthorDetail\\GetAuthorDetailQuery.cs",
+              "RelativeDocumentMoniker": "WebApi\\Application\\AuthorOperations\\Queries\\GetAuthorDetail\\GetAuthorDetailQuery.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Queries\\GetAuthorDetail\\GetAuthorDetailQuery.cs",
+              "RelativeToolTip": "WebApi\\Application\\AuthorOperations\\Queries\\GetAuthorDetail\\GetAuthorDetailQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:26:54.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAuthorsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Queries\\GetAuthors\\GetAuthorsQuery.cs",
+              "RelativeDocumentMoniker": "WebApi\\Application\\AuthorOperations\\Queries\\GetAuthors\\GetAuthorsQuery.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Queries\\GetAuthors\\GetAuthorsQuery.cs",
+              "RelativeToolTip": "WebApi\\Application\\AuthorOperations\\Queries\\GetAuthors\\GetAuthorsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:25:52.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteAuthorCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommandValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommandValidator.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommandValidator.cs",
+              "RelativeToolTip": "WebApi\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:25:03.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteAuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommand.cs",
+              "RelativeDocumentMoniker": "WebApi\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommand.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommand.cs",
+              "RelativeToolTip": "WebApi\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:24:51.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateAuthorCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Commands\\UpdateAuthor\\UpdateAuthorCommandValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\Application\\AuthorOperations\\Commands\\UpdateAuthor\\UpdateAuthorCommandValidator.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Commands\\UpdateAuthor\\UpdateAuthorCommandValidator.cs",
+              "RelativeToolTip": "WebApi\\Application\\AuthorOperations\\Commands\\UpdateAuthor\\UpdateAuthorCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:24:31.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateAuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Commands\\UpdateAuthor\\UpdateAuthorCommand.cs",
+              "RelativeDocumentMoniker": "WebApi\\Application\\AuthorOperations\\Commands\\UpdateAuthor\\UpdateAuthorCommand.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Commands\\UpdateAuthor\\UpdateAuthorCommand.cs",
+              "RelativeToolTip": "WebApi\\Application\\AuthorOperations\\Commands\\UpdateAuthor\\UpdateAuthorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:24:17.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateAuthorCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommandValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommandValidator.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommandValidator.cs",
+              "RelativeToolTip": "WebApi\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:22:50.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateAuthorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommand.cs",
+              "RelativeDocumentMoniker": "WebApi\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommand.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommand.cs",
+              "RelativeToolTip": "WebApi\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:22:35.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookStoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\DbOperations\\BookStoreDbContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\DbOperations\\BookStoreDbContext.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\DbOperations\\BookStoreDbContext.cs",
+              "RelativeToolTip": "WebApi\\DbOperations\\BookStoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:19:45.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "WebApi\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Entities\\Book.cs",
+              "RelativeToolTip": "WebApi\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:19:31.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "WebApi\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4\\BookStore\\WebApi\\WebApi\\Entities\\Author.cs",
+              "RelativeToolTip": "WebApi\\Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:19:16.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
