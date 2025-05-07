@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-3-validation\\bookstore\\webapi\\webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-3-validation\\bookstore\\webapi\\webapi\\bookoperations\\getbookdetail\\getbookdetailqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\bookoperations\\getbookdetail\\getbookdetailqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-3-validation\\bookstore\\webapi\\webapi\\bookoperations\\updatebook\\updatebookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\bookoperations\\updatebook\\updatebookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-3-validation\\bookstore\\webapi\\webapi\\bookoperations\\updatebook\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\bookoperations\\updatebook\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-3-validation\\bookstore\\webapi\\webapi\\bookoperations\\getbooks\\getbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\bookoperations\\getbooks\\getbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-3-validation\\bookstore\\webapi\\webapi\\bookoperations\\getbookdetail\\getbookdetailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\bookoperations\\getbookdetail\\getbookdetailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-3-validation\\bookstore\\webapi\\webapi\\bookoperations\\deletebook\\deletebookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\bookoperations\\deletebook\\deletebookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-3-validation\\bookstore\\webapi\\webapi\\bookoperations\\deletebook\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\bookoperations\\deletebook\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-3-validation\\bookstore\\webapi\\webapi\\bookoperations\\createbook\\createbookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\bookoperations\\createbook\\createbookcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-3-validation\\bookstore\\webapi\\webapi\\bookoperations\\createbook\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC5C41B-A2D9-4385-B7C6-1B9983339C2F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\bookoperations\\createbook\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 277,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:24:16.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetBookDetailQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\GetBookDetail\\GetBookDetailQueryValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\BookOperations\\GetBookDetail\\GetBookDetailQueryValidator.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\GetBookDetail\\GetBookDetailQueryValidator.cs",
+              "RelativeToolTip": "WebApi\\BookOperations\\GetBookDetail\\GetBookDetailQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:58:55.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateBookCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\UpdateBook\\UpdateBookCommandValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\BookOperations\\UpdateBook\\UpdateBookCommandValidator.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\UpdateBook\\UpdateBookCommandValidator.cs",
+              "RelativeToolTip": "WebApi\\BookOperations\\UpdateBook\\UpdateBookCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:58:36.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\UpdateBook\\UpdateBookCommand.cs",
+              "RelativeDocumentMoniker": "WebApi\\BookOperations\\UpdateBook\\UpdateBookCommand.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\UpdateBook\\UpdateBookCommand.cs",
+              "RelativeToolTip": "WebApi\\BookOperations\\UpdateBook\\UpdateBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:57:09.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetBookDetailQuery.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\GetBookDetail\\GetBookDetailQuery.cs",
+              "RelativeDocumentMoniker": "WebApi\\BookOperations\\GetBookDetail\\GetBookDetailQuery.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\GetBookDetail\\GetBookDetailQuery.cs",
+              "RelativeToolTip": "WebApi\\BookOperations\\GetBookDetail\\GetBookDetailQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:56:59.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetBooksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\GetBooks\\GetBooksQuery.cs",
+              "RelativeDocumentMoniker": "WebApi\\BookOperations\\GetBooks\\GetBooksQuery.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\GetBooks\\GetBooksQuery.cs",
+              "RelativeToolTip": "WebApi\\BookOperations\\GetBooks\\GetBooksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:29:37.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteBookCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\DeleteBook\\DeleteBookCommandValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\BookOperations\\DeleteBook\\DeleteBookCommandValidator.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\DeleteBook\\DeleteBookCommandValidator.cs",
+              "RelativeToolTip": "WebApi\\BookOperations\\DeleteBook\\DeleteBookCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:53:27.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\DeleteBook\\DeleteBookCommand.cs",
+              "RelativeDocumentMoniker": "WebApi\\BookOperations\\DeleteBook\\DeleteBookCommand.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\DeleteBook\\DeleteBookCommand.cs",
+              "RelativeToolTip": "WebApi\\BookOperations\\DeleteBook\\DeleteBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:49:27.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateBookCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\CreateBook\\CreateBookCommandValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\BookOperations\\CreateBook\\CreateBookCommandValidator.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\CreateBook\\CreateBookCommandValidator.cs",
+              "RelativeToolTip": "WebApi\\BookOperations\\CreateBook\\CreateBookCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:40:02.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\CreateBook\\CreateBookCommand.cs",
+              "RelativeDocumentMoniker": "WebApi\\BookOperations\\CreateBook\\CreateBookCommand.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-3-Validation\\BookStore\\WebApi\\WebApi\\BookOperations\\CreateBook\\CreateBookCommand.cs",
+              "RelativeToolTip": "WebApi\\BookOperations\\CreateBook\\CreateBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:12:43.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
