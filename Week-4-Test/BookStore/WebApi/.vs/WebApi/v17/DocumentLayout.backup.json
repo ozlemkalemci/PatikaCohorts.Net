@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\authoroperations\\queries\\getauthordetailqueryvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\authoroperations\\queries\\getauthordetailqueryvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\authoroperations\\queries\\getauthordetailquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\authoroperations\\queries\\getauthordetailquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\genreoperations\\queries\\getgenredetail\\getgenredetailquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\genreoperations\\queries\\getgenredetail\\getgenredetailquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\genreoperations\\commands\\updategenre\\updategenrecommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\genreoperations\\commands\\updategenre\\updategenrecommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\bookoperations\\queries\\getbookdetail\\getbookdetailqueryvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\bookoperations\\queries\\getbookdetail\\getbookdetailqueryvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\bookoperations\\queries\\getbookdetail\\getbookdetailquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\bookoperations\\queries\\getbookdetail\\getbookdetailquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\bookoperations\\commands\\updatebook\\updatebookcommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\bookoperations\\commands\\updatebook\\updatebookcommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\bookoperations\\commands\\updatebook\\updatebookcommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\bookoperations\\commands\\updatebook\\updatebookcommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\authoroperations\\commands\\updateauthor\\updateauthorcommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\authoroperations\\commands\\updateauthor\\updateauthorcommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\authoroperations\\commands\\deleteauthor\\deleteauthorcommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\authoroperations\\commands\\deleteauthor\\deleteauthorcommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\authoroperations\\commands\\deleteauthor\\deleteauthorcommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\authoroperations\\commands\\deleteauthor\\deleteauthorcommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\authoroperations\\commands\\createauthor\\createauthorcommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\authoroperations\\commands\\createauthor\\createauthorcommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\authoroperations\\commands\\createauthor\\createauthorcommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\authoroperations\\commands\\createauthor\\createauthorcommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\testssetup\\commontestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\testssetup\\commontestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\testssetup\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\testssetup\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\testssetup\\genres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\testssetup\\genres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\testssetup\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\testssetup\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\genreoperations\\queries\\getgenredetail\\getgenredetailqueryvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\genreoperations\\queries\\getgenredetail\\getgenredetailqueryvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\genreoperations\\commands\\updategenre\\updategenrecommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\genreoperations\\commands\\updategenre\\updategenrecommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\genreoperations\\commands\\deletegenre\\deletegenrecommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\genreoperations\\commands\\deletegenre\\deletegenrecommandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|c:\\users\\lonovo\\documents\\github\\patikacohorts.net\\week-4-test\\bookstore\\webapi\\tests\\webapi.tests\\application\\genreoperations\\commands\\deletegenre\\deletegenrecommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A50998-60E2-44CB-BC32-03E57024D245}|Tests\\WebApi.Tests\\WebApi.Tests.csproj|solutionrelative:tests\\webapi.tests\\application\\genreoperations\\commands\\deletegenre\\deletegenrecommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 375,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAuthorDetailQueryValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Queries\\GetAuthorDetailQueryValidatorTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Queries\\GetAuthorDetailQueryValidatorTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Queries\\GetAuthorDetailQueryValidatorTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Queries\\GetAuthorDetailQueryValidatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:00:28.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAuthorDetailQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Queries\\GetAuthorDetailQueryTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Queries\\GetAuthorDetailQueryTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Queries\\GetAuthorDetailQueryTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Queries\\GetAuthorDetailQueryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:00:01.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetGenreDetailQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\GenreOperations\\Queries\\GetGenreDetail\\GetGenreDetailQueryTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\GenreOperations\\Queries\\GetGenreDetail\\GetGenreDetailQueryTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\GenreOperations\\Queries\\GetGenreDetail\\GetGenreDetailQueryTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\GenreOperations\\Queries\\GetGenreDetail\\GetGenreDetailQueryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:59:45.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateGenreCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\UpdateGenre\\UpdateGenreCommandTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\UpdateGenre\\UpdateGenreCommandTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\UpdateGenre\\UpdateGenreCommandTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\UpdateGenre\\UpdateGenreCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:59:29.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetBookDetailQueryValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\BookOperations\\Queries\\GetBookDetail\\GetBookDetailQueryValidatorTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\BookOperations\\Queries\\GetBookDetail\\GetBookDetailQueryValidatorTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\BookOperations\\Queries\\GetBookDetail\\GetBookDetailQueryValidatorTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\BookOperations\\Queries\\GetBookDetail\\GetBookDetailQueryValidatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:58:33.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetBookDetailQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\BookOperations\\Queries\\GetBookDetail\\GetBookDetailQueryTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\BookOperations\\Queries\\GetBookDetail\\GetBookDetailQueryTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\BookOperations\\Queries\\GetBookDetail\\GetBookDetailQueryTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\BookOperations\\Queries\\GetBookDetail\\GetBookDetailQueryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:58:20.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateBookCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\BookOperations\\Commands\\UpdateBook\\UpdateBookCommandTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\BookOperations\\Commands\\UpdateBook\\UpdateBookCommandTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\BookOperations\\Commands\\UpdateBook\\UpdateBookCommandTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\BookOperations\\Commands\\UpdateBook\\UpdateBookCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:57:38.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateBookCommandValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\BookOperations\\Commands\\UpdateBook\\UpdateBookCommandValidatorTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\BookOperations\\Commands\\UpdateBook\\UpdateBookCommandValidatorTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\BookOperations\\Commands\\UpdateBook\\UpdateBookCommandValidatorTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\BookOperations\\Commands\\UpdateBook\\UpdateBookCommandValidatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:57:26.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateAuthorCommandValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\UpdateAuthor\\UpdateAuthorCommandValidatorTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\UpdateAuthor\\UpdateAuthorCommandValidatorTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\UpdateAuthor\\UpdateAuthorCommandValidatorTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\UpdateAuthor\\UpdateAuthorCommandValidatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:49:21.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteAuthorCommandValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommandValidatorTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommandValidatorTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommandValidatorTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommandValidatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:49:02.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteAuthorCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommandTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommandTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommandTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\DeleteAuthor\\DeleteAuthorCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:48:49.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateAuthorCommandValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommandValidatorTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommandValidatorTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommandValidatorTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommandValidatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:48:26.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateAuthorCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommandTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommandTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommandTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\AuthorOperations\\Commands\\CreateAuthor\\CreateAuthorCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:44:56.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommonTestFixture.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\TestsSetup\\CommonTestFixture.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\TestsSetup\\CommonTestFixture.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\TestsSetup\\CommonTestFixture.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\TestsSetup\\CommonTestFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:45:45.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Authors.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\TestsSetup\\Authors.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\TestsSetup\\Authors.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\TestsSetup\\Authors.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\TestsSetup\\Authors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:46:09.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Genres.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\TestsSetup\\Genres.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\TestsSetup\\Genres.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\TestsSetup\\Genres.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\TestsSetup\\Genres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:45:40.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\TestsSetup\\Books.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\TestsSetup\\Books.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\TestsSetup\\Books.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\TestsSetup\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:45:08.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetGenreDetailQueryValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\GenreOperations\\Queries\\GetGenreDetail\\GetGenreDetailQueryValidatorTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\GenreOperations\\Queries\\GetGenreDetail\\GetGenreDetailQueryValidatorTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\GenreOperations\\Queries\\GetGenreDetail\\GetGenreDetailQueryValidatorTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\GenreOperations\\Queries\\GetGenreDetail\\GetGenreDetailQueryValidatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:41:22.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateGenreCommandValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\UpdateGenre\\UpdateGenreCommandValidatorTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\UpdateGenre\\UpdateGenreCommandValidatorTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\UpdateGenre\\UpdateGenreCommandValidatorTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\UpdateGenre\\UpdateGenreCommandValidatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:40:44.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteGenreCommandValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\DeleteGenre\\DeleteGenreCommandValidatorTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\DeleteGenre\\DeleteGenreCommandValidatorTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\DeleteGenre\\DeleteGenreCommandValidatorTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\DeleteGenre\\DeleteGenreCommandValidatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:40:21.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteGenreCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\DeleteGenre\\DeleteGenreCommandTest.cs",
+              "RelativeDocumentMoniker": "Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\DeleteGenre\\DeleteGenreCommandTest.cs",
+              "ToolTip": "C:\\Users\\lonovo\\Documents\\GitHub\\PatikaCohorts.Net\\Week-4-Test\\BookStore\\WebApi\\Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\DeleteGenre\\DeleteGenreCommandTest.cs",
+              "RelativeToolTip": "Tests\\WebApi.Tests\\Application\\GenreOperations\\Commands\\DeleteGenre\\DeleteGenreCommandTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:40:00.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
